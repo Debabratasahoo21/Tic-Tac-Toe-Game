@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #548687;
+    background-color: yellow;
     text-align: center;
 }
 .container{
@@ -70,4 +70,5 @@ h1{
 
 .hide{
     display: none;
+
 }
